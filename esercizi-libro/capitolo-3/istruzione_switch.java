@@ -32,9 +32,7 @@ class ProvaSwitch {
               default:
                     System.out.println("Il numero di figli è:"+numeroNeonati);
                     break;
-              
-        }    
-            
-      }
       
+        }    
+      }
 }
